@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>africa.png</file>
+        <file>bohem_cigar.png</file>
+        <file>esse.jpeg</file>
+        <file>lamborghini.png</file>
+        <file>marlboro.jpeg</file>
+        <file>mevius.png</file>
+        <file>cigar.png</file>
+    </qresource>
+</RCC>
